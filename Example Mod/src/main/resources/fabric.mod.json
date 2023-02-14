@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "chatlisten",
+  "version": "${version}",
+  "name": "Chat Listener",
+  "description": "Listens to Chat",
+  "authors": [
+    "Prophet"
+  ],
+  "contact": {
+    "homepage": "https://example.com/",
+    "issues": "https://example.com/",
+    "sources": "https://example.com/"
+  },
+  "license": "The Unlicense",
+  "icon": "assets/mod_name/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "adapter": "kotlin",
+        "value": "net.prophet.chatlisten.ChatListen"
+      }
+    ]
+  },
+  "mixins": [
+    "chatlisten.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${fabricloader}",
+    "fabric-api": ">=${fabric_api}",
+    "fabric-language-kotlin": ">=${fabric_language_kotlin}",
+    "minecraft": ">=${minecraft}",
+    "java": ">=${java}",
+    "xaerominimap": "*"
+  }
+}
