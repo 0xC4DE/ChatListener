@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc:yarn:constants:1.19.3+build.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.19.3+build.5/f58b24cd8ffe391175ba49361657d6e7a1d3b542/yarn-1.19.3+build.5-constants.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.19.3+build.5/90a33e9ddb378e9006186cc04ef25773fe4f0f66/yarn-1.19.3+build.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.19.3+build.5/ad4cf9defc80625011d08e2e1c8b675c1485e7c5/yarn-1.19.3+build.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

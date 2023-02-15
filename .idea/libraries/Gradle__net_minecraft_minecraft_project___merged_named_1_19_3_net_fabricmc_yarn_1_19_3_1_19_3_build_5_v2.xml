@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraft:minecraft-project-@-merged-named:1.19.3/net.fabricmc.yarn.1_19_3.1.19.3+build.5-v2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Example Mod/.gradle/loom-cache/1.19.3/net.fabricmc.yarn.1_19_3.1.19.3+build.5-v2/minecraft-project-@-merged-named.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
