@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: info.journeymap:journeymap-api:1.19.3-1.9-fabric-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.journeymap/journeymap-api/1.19.3-1.9-fabric-SNAPSHOT/1b2426a86c471717e926f275d49e554c0cb821f0/journeymap-api-1.19.3-1.9-fabric-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.journeymap/journeymap-api/1.19.3-1.9-fabric-SNAPSHOT/9b451305d1124a6c4b2d695fed8cc0130fc91d82/journeymap-api-1.19.3-1.9-fabric-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.journeymap/journeymap-api/1.19.3-1.9-fabric-SNAPSHOT/1836aeade0357c04fa55d2b73f6c0a26c00fcd2/journeymap-api-1.19.3-1.9-fabric-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
